@@ -5,3 +5,4 @@ MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
 
 [compat]
 Documenter = "1"
+MAT = "0.11"
